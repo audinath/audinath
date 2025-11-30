@@ -42,12 +42,6 @@ Hi, I'm **Nathan**, an audio developer learning **JS** and **HTML/CSS**. I creat
 
 ---
 
-## 🔊 Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317gca7wk6gvpoqdwktppf6dxaaq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 ## 🎉 Fun Facts
 
 - I enjoy video games and ui,ux & gfx.
