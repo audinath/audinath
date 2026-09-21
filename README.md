@@ -13,31 +13,31 @@ Hi, I'm **Nathan**, an audio developer learning **JS** and **HTML/CSS**. I creat
 
 ## 📁 Repositories
 
-Here is a clearer overview of what I'm working on. Private repositories are only visible to people who already have access to them, even if their names and descriptions are listed publicly here.
+Here is a quick overview of what I'm working on. Private repositories are only visible to people who already have access to them, even if their names and descriptions are listed publicly here.
 
 ### Public
-- **Owner:** `audinath` — **Repo:** [`audinath`](https://github.com/audinath/audinath) — **Description:** Description non renseignée — **Visibility:** Public
-- **Owner:** `audinath` — **Repo:** [`Sky-RDS`](https://github.com/audinath/Sky-RDS) — **Description:** An RDS screen to display information on music broadcast on Skyrock — **Visibility:** Public
+- [`audinath/audinath`](https://github.com/audinath/audinath) — Description non renseignée *(Public)*
+- [`audinath/Sky-RDS`](https://github.com/audinath/Sky-RDS) — An RDS screen to display information on music broadcast on Skyrock *(Public)*
 
 ### Private
-- **Owner:** `audinath` — **Repo:** [`chandler`](https://github.com/audinath/chandler) — **Description:** Bot discord gestion alpha studios — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`stereobot`](https://github.com/audinath/stereobot) — **Description:** Gestion de STS API, panel web pour gérer le traitement AS — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`COURS`](https://github.com/audinath/COURS) — **Description:** Obsidian cours 2026/2027 — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`QONIQ-IA`](https://github.com/audinath/QONIQ-IA) — **Description:** SaaS de collecte et d'analyse de données radio (titrage, grilles, piges) — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`dk-monitor`](https://github.com/audinath/dk-monitor) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`redemptiondev`](https://github.com/audinath/redemptiondev) — **Description:** dev du serv — **Visibility:** Private
-- **Owner:** `felicienradio` — **Repo:** [`studioair`](https://github.com/felicienradio/studioair) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `ALPHASTUDIOSFIVEM` — **Repo:** [`blet`](https://github.com/ALPHASTUDIOSFIVEM/blet) — **Description:** FiveM base blet — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`scamdex`](https://github.com/audinath/scamdex) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `ALPHASTUDIOSFIVEM` — **Repo:** [`alphafreeroam`](https://github.com/ALPHASTUDIOSFIVEM/alphafreeroam) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`ALPHASTUDIOS`](https://github.com/audinath/ALPHASTUDIOS) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`STSPRESET`](https://github.com/audinath/STSPRESET) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `REDEVENTSCORP` — **Repo:** [`REDEVENTS`](https://github.com/REDEVENTSCORP/REDEVENTS) — **Description:** FiveM server resources — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`autoinstallfivem`](https://github.com/audinath/autoinstallfivem) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`BUNZZZWEBV1`](https://github.com/audinath/BUNZZZWEBV1) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `dermotamx` — **Repo:** [`shivers`](https://github.com/dermotamx/shivers) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `dermotamx` — **Repo:** [`REYES`](https://github.com/dermotamx/REYES) — **Description:** Description non renseignée — **Visibility:** Private
-- **Owner:** `audinath` — **Repo:** [`CONFIGCLIENTSPULSE`](https://github.com/audinath/CONFIGCLIENTSPULSE) — **Description:** sauv des différents config clients pulse — **Visibility:** Private
+- [`audinath/chandler`](https://github.com/audinath/chandler) — Bot discord gestion alpha studios *(Private)*
+- [`audinath/stereobot`](https://github.com/audinath/stereobot) — Gestion de STS API, panel web pour gérer le traitement AS *(Private)*
+- [`audinath/COURS`](https://github.com/audinath/COURS) — Obsidian cours 2026/2027 *(Private)*
+- [`audinath/QONIQ-IA`](https://github.com/audinath/QONIQ-IA) — SaaS de collecte et d'analyse de données radio (titrage, grilles, piges) *(Private)*
+- [`audinath/dk-monitor`](https://github.com/audinath/dk-monitor) — Description non renseignée *(Private)*
+- [`audinath/redemptiondev`](https://github.com/audinath/redemptiondev) — dev du serv *(Private)*
+- [`felicienradio/studioair`](https://github.com/felicienradio/studioair) — Description non renseignée *(Private)*
+- [`ALPHASTUDIOSFIVEM/blet`](https://github.com/ALPHASTUDIOSFIVEM/blet) — FiveM base blet *(Private)*
+- [`audinath/scamdex`](https://github.com/audinath/scamdex) — Description non renseignée *(Private)*
+- [`ALPHASTUDIOSFIVEM/alphafreeroam`](https://github.com/ALPHASTUDIOSFIVEM/alphafreeroam) — Description non renseignée *(Private)*
+- [`audinath/ALPHASTUDIOS`](https://github.com/audinath/ALPHASTUDIOS) — Description non renseignée *(Private)*
+- [`audinath/STSPRESET`](https://github.com/audinath/STSPRESET) — Description non renseignée *(Private)*
+- [`REDEVENTSCORP/REDEVENTS`](https://github.com/REDEVENTSCORP/REDEVENTS) — FiveM server resources *(Private)*
+- [`audinath/autoinstallfivem`](https://github.com/audinath/autoinstallfivem) — Description non renseignée *(Private)*
+- [`audinath/BUNZZZWEBV1`](https://github.com/audinath/BUNZZZWEBV1) — Description non renseignée *(Private)*
+- [`dermotamx/shivers`](https://github.com/dermotamx/shivers) — Description non renseignée *(Private)*
+- [`dermotamx/REYES`](https://github.com/dermotamx/REYES) — Description non renseignée *(Private)*
+- [`audinath/CONFIGCLIENTSPULSE`](https://github.com/audinath/CONFIGCLIENTSPULSE) — sauv des différents config clients pulse *(Private)*
 
 
 
