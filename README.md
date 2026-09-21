@@ -8,8 +8,6 @@ Hi, I'm **Nathan**, an audio developer learning **JS** and **HTML/CSS**. I creat
 
 
 # 💡 Projects
-
-- [**HeatMusic**](https://github.com/audinath/Heatmusic) - A preset for Omnia 9ptn 
 - [**OWO-PANEL**](https://github.com/audinath/owo-panel) - A web panel to deploy shoutcasts easily and quickly on pterodactyl
 - [**WEUP**](https://github.com/audinath/weup) - [SOON] a web app that displays the content of ZETTA, without login
 
